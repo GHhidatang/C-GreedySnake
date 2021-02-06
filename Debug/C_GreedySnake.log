@@ -1,0 +1,6 @@
+﻿  C_GreedySnake.cpp
+E:\C\vsProject\C_GreedySnake\C_GreedySnake.cpp(110,25): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+E:\C\vsProject\C_GreedySnake\C_GreedySnake.cpp(114,23): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+E:\C\vsProject\C_GreedySnake\C_GreedySnake.cpp(118,26): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+E:\C\vsProject\C_GreedySnake\C_GreedySnake.cpp(122,25): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  C_GreedySnake.vcxproj -> E:\C\vsProject\C_GreedySnake\Debug\C_GreedySnake.exe
